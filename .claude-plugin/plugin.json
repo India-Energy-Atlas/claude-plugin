@@ -1,0 +1,29 @@
+{
+  "name": "india-energy-atlas",
+  "displayName": "India Energy Atlas",
+  "version": "1.0.0",
+  "description": "Read-only public data on India's electricity grid: state demand, IEX prices, grid frequency, carbon intensity, demand forecasts, Power Supply Position, open-access charges and early-stage Data Centre site screens, with sources and timestamps. No sign-in.",
+  "author": {
+    "name": "India Energy Atlas Private Limited",
+    "email": "hello@energymap.in",
+    "url": "https://www.energymap.in"
+  },
+  "homepage": "https://www.energymap.in/developer/mcp/public",
+  "repository": "https://github.com/India-Energy-Atlas/claude-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "india",
+    "electricity",
+    "power-grid",
+    "energy-data",
+    "iex",
+    "carbon-intensity",
+    "demand-forecast",
+    "data-centre"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://www.energymap.in/developer/mcp/public",
+  "supportUrl": "https://www.energymap.in/about",
+  "privacyPolicyUrl": "https://www.energymap.in/privacy",
+  "termsOfServiceUrl": "https://www.energymap.in/terms"
+}

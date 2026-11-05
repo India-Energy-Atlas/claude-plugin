@@ -1,0 +1,15 @@
+{
+  "name": "india-energy-atlas",
+  "description": "India Energy Atlas plugins for Claude: public, read-only data on India's electricity system.",
+  "owner": {
+    "name": "India Energy Atlas Private Limited",
+    "email": "hello@energymap.in"
+  },
+  "plugins": [
+    {
+      "name": "india-energy-atlas",
+      "source": "./",
+      "description": "Read-only public data on India's electricity grid: demand, IEX prices, frequency, carbon intensity, forecasts and early-stage Data Centre site screens."
+    }
+  ]
+}

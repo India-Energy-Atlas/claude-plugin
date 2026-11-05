@@ -21,6 +21,12 @@
     "demand-forecast",
     "data-centre"
   ],
+  "mcpServers": {
+    "india-energy-atlas": {
+      "type": "http",
+      "url": "https://api.energymap.in/mcp/public"
+    }
+  },
   "icon": "./assets/icon.png",
   "documentationUrl": "https://www.energymap.in/developer/mcp/public",
   "supportUrl": "https://www.energymap.in/about",
